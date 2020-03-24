@@ -1,0 +1,13 @@
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\bin\Release\Bv2Av.exe
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\bin\Release\Bv2Av.pdb
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\MainWindow.g.cs
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\App.g.cs
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av_MarkupCompile.cache
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av_MarkupCompile.lref
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\MainWindow.baml
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.g.resources
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.Properties.Resources.resources
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.csproj.GenerateResource.cache
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.csproj.CoreCompileInputs.cache
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.exe
+D:\[源码]SRC\C#\Bv2Av\Bv2Av\obj\Release\Bv2Av.pdb
